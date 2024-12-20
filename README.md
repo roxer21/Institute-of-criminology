@@ -1,3 +1,4 @@
 # Institute-of-criminology
-نسخة تجريبية لتطوير المعهد الكترونيا
-index.html
+git init
+https://github.com/roxer.21/institute-of-criminology.git
+https://websim.ai//@ICO/Criminology-institute
